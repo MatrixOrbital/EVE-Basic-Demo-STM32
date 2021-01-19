@@ -74,7 +74,7 @@ Depending on the EVE module you have connected, you will need to make a small mo
 |[**29** - 2.9" 320 x 102 TFT](https://www.matrixorbital.com/eve2-29a)|DISPLAY_29
 |[**35** - 3.5" 320 x 240 TFT](https://www.matrixorbital.com/index.php?route=product/search&search=eve3-35)|DISPLAY_35
 |[**38** - 3.8" 480 x 116 TFT](https://www.matrixorbital.com/index.php?route=product/search&search=eve2-38)|DISPLAY_38
-|**39** - 3.9" 480 x 128 TFT|DISPLAY_39
+|**39** - 3.9" 480 x 128 TFT|](https://www.matrixorbital.com/index.php?route=product/search&search=eve3x-39)|DISPLAY_39
 |[**43** - 4.3" 480 x 272 TFT](https://www.matrixorbital.com/index.php?route=product/search&search=eve3-43)|DISPLAY_43
 |[**50** - 5.0" 800 x 480 TFT](https://www.matrixorbital.com/index.php?route=product/search&search=eve3-50)|DISPLAY_50
 |[**52** - 5.2" 800 x 128 TFT](https://www.matrixorbital.com/index.php?route=product/search&search=eve3-52)|DISPLAY_52
