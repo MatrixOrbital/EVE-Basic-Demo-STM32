@@ -33,7 +33,7 @@ To interface the EVE display modules with the STM32-Nucleo there are two options
 
 ### EVE2-SPI2BBC
 
-An [EVE2-SPI2BBC](https://www.matrixorbital.com/EVE2-SPI2BBC) SPI to Bread Board Cable development Interface Kit w/ cable
+An [EVE-SPI2BBC](https://www.matrixorbital.com/EVE-SPI2BBC) SPI to Bread Board Cable development Interface Kit w/ cable
 
 This will work for most development kits and is the most flexible option to attach your EVE module to your MCU
 
